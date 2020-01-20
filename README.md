@@ -8,3 +8,8 @@ third update
 
 #here 
 some new updates
+
+#new update
+new update for git diff command
+
+new updates for the new branch
