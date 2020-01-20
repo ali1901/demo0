@@ -12,4 +12,8 @@ some new updates
 #new update
 new update for git diff command
 
+<<<<<<< HEAD
 new updates for the new branch________
+=======
+new updates for the new branch and causing problem
+>>>>>>> conflict
