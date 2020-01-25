@@ -26,4 +26,4 @@ new update for github push and pull
 
 upddate done from github__________
 
-updated on remote-update-branch
+updated on remote-update-branch and then update from local fetched branch
